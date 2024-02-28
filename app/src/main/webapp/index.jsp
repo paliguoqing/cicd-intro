@@ -16,7 +16,7 @@ div {text-align: center;}
 
 <h1>Attack Path Lab</h1>
 <p>This is Attack Path Testing Lab Vulnerable Application. Updated</p>
-<div>Sample exploitable application. Go 2024！
+<div>Sample exploitable application. Go 2024 ！
 <s:a id="%{id}">your input id: ${id}
 </s:a>
 <p style="text-align:center;"><img src="./img.png" alt="Logo"></p>
